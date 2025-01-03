@@ -3,11 +3,11 @@ This project is designed to predict the category and sub-category of e-commerce 
 
 ## Features
 **Features**
-_**Category Prediction:** Predicts the primary category of the product based on the description provided by the user.
-_**Sub-category Prediction:** Identifies the specific sub-category within the main category for more detailed product classification.
-_**Text Preprocessing:** Handles text cleaning, including URL removal, tokenization, stopword removal, and lemmatization for improved model accuracy.
-_**Scalability:** The system is designed to scale and work with large datasets for e-commerce platforms.
-_**Accuracy:** The model uses advanced machine learning techniques for accurate classification of product descriptions.
+**Category Prediction:** Predicts the primary category of the product based on the description provided by the user.<br>
+**Sub-category Prediction:** Identifies the specific sub-category within the main category for more detailed product classification.
+**Text Preprocessing:** Handles text cleaning, including URL removal, tokenization, stopword removal, and lemmatization for improved model accuracy.
+**Scalability:** The system is designed to scale and work with large datasets for e-commerce platforms.
+**Accuracy:** The model uses advanced machine learning techniques for accurate classification of product descriptions.
 
 
 ## Installation
