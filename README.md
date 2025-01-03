@@ -90,7 +90,7 @@ To run this project, you need to have Python and pip installed on your system.
 
 2. Navigate to the project folder:
    
-   cd product-description-analysis
+   cd E-commerce-Product-Description-Analysis
    
 
 3. Install the required dependencies:
