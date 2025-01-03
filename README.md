@@ -23,12 +23,12 @@ This chart shows the revenue distribution across different product categories. I
 
 This visualization shows the total sales for the top 20 sub-categories. It's useful for understanding which sub-categories contribute the most to the overall sales.
 
-### 3. Top 20 Brands According to Sales in a Particular Category](#top-20-brands-according-to-sales
+### 3. Top 20 Brands According to Sales in a Particular Category
 ![Top 20 Brands by Sales](https://github.com/divyanshgawri/E-commerce-Product-Description-Analysis/blob/main/output3.png)
 
 This graph visualizes the top 20 brands within a specific category, showing their sales performance. It provides insights into the most successful brands in the selected category.
 
-### 4. Most Number of Products Sold by Categories](#most-number-of-products-sold-by-categories
+### 4. Most Number of Products Sold by Categories]
 ![Products Sold by Categories](https://github.com/divyanshgawri/E-commerce-Product-Description-Analysis/blob/main/output4.png)
 
 This plot represents the number of products sold across various categories. It provides a comparison of the sales volume for different categories and helps identify the most popular categories.
