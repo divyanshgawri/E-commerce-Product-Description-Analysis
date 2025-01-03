@@ -85,7 +85,7 @@ To run this project, you need to have Python and pip installed on your system.
 
 1. Clone the repository:
    
-   git clone https://github.com/yourusername/product-description-analysis.git
+   git clone https://github.com/divyanshgawri/E-commerce-Product-Description-Analysis.git
    
 
 2. Navigate to the project folder:
