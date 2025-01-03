@@ -32,7 +32,49 @@ This graph visualizes the top 20 brands within a specific category, showing thei
 ![Products Sold by Categories](https://github.com/divyanshgawri/E-commerce-Product-Description-Analysis/blob/main/output4.png)
 
 This plot represents the number of products sold across various categories. It provides a comparison of the sales volume for different categories and helps identify the most popular categories.
+Here's an example of how you can describe your **NLP model** in the **README.md** to highlight its functionality and contributions to the project.
 
+## NLP Model for Product Categorization
+
+In this project, we developed a **Natural Language Processing (NLP) model** aimed at predicting the **category** and **sub-category** of a product description provided by a consumer. The goal was to automate product categorization and enable businesses to analyze customer feedback or product reviews more effectively. The model helps companies identify which product a user is referring to based on their description, improving customer service, inventory management, and overall business intelligence.
+
+### **Model Overview**
+The model uses **text data** (descriptions of products) as input and classifies them into predefined **categories** and **sub-categories** based on their content. This approach is particularly beneficial for businesses looking to analyze large volumes of product-related content, such as reviews or descriptions, and gain insights into which products are being talked about.
+
+### **Steps Taken:**
+1. **Data Preprocessing**: 
+   - Cleaned the text data by removing unnecessary elements such as URLs, special characters, and stop words.
+   - Applied **tokenization**, **lemmatization**, and **lowercasing** to standardize the text.
+   - Used **TF-IDF** (Term Frequency-Inverse Document Frequency) to convert the cleaned text into numerical vectors that the model can process.
+
+2. **Model Selection**:
+   - We experimented with multiple **classification models** like **Logistic Regression**, **Random Forest**, and **Support Vector Machines (SVM)** to identify the best model.
+   - Then we Selected **Logistic Regression** as our model for training.
+   - The model takes the cleaned text and predicts the most probable category and sub-category using the trained classifier.
+
+3. **Evaluation**:
+   - The model's performance was evaluated using **accuracy** and **precision** metrics.
+   - Cross-validation was performed to ensure the model's robustness and generalizability across unseen data.
+
+4. **Result**: 
+   - The final model is capable of classifying product descriptions with high accuracy. Businesses can now use this model to categorize products automatically based on customer-generated content such as descriptions, reviews, and feedback.
+
+### **Features:**
+- **Text Preprocessing**: Includes tokenization, removal of stop words, special characters, and URLs, and lemmatization.
+- **TF-IDF Vectorization**: Converts textual data into a format suitable for machine learning models.
+- **Model Flexibility**: Multiple machine learning models can be tested and evaluated for best performance.
+- **Easy Integration**: The model can be integrated into existing product feedback systems or customer service platforms.
+
+### **Future Improvements**:
+- **Deep Learning**: The current model is based on classical machine learning techniques. Future work can involve training deep learning models like **LSTM** or **BERT** for better accuracy and handling more complex language patterns.
+- **Domain-Specific Models**: Creating models tailored for specific industries, such as health or beauty, can improve the model’s ability to handle niche products.
+- **Multilingual Support**: The model can be enhanced to work in multiple languages, making it scalable across regions and countries.
+
+---
+
+This section of your README will provide clear context for your NLP model, detailing its purpose, methodology, and usage for potential collaborators or employers reviewing your project.
+
+Let me know if you'd like to adjust any details or add more explanations!
 ## Installation
 
 ### Prerequisites
